@@ -1,2 +1,7 @@
 # HelloWord
-第一次····
+public class HelloWoed{
+  public static void main(String [] args){
+    System.out.println("HelloWord");
+  }
+}
+ 
